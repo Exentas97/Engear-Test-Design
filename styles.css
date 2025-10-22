@@ -185,8 +185,71 @@ body {
 }
 
 .container{
-    background-color: red;
-    height: 4rem;
-    width: 3rem;
+    background-color: rgb(255, 255, 255);
+    height: 15rem;
+    width: auto;
     justify-content: center;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+}
+
+.container2{
+    background-color: rgb(255, 255, 255);
+    height: 15rem;
+    width: auto;
+    justify-content: center;
+    margin-top: 0.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: flex;
+    margin-bottom: 4rem;
+}
+
+.catone{
+    background-color: red;
+    height: 15rem;
+    width: 65rem;
+}
+
+.
+
+.cattwo{
+    background-color: rgb(0, 47, 255);
+    height: 15rem;
+    width: 40rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.catthree{
+    background-color: rgb(0, 248, 58);
+    height: 15rem;
+    width: 40rem;
+}
+
+.catfour{
+    background-color: rgb(248, 0, 145);
+    height: 15rem;
+    width: 40rem;
+}
+
+.catfive{
+    background-color: rgb(251, 255, 0);
+    height: 15rem;
+    width: 40rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.catsix{
+    background-color: rgb(0, 145, 255);
+    height: 15rem;
+    width: 65rem;
+}
+
+.downbanner{
+    height: 12rem;
+    width: 3rem;
 }
